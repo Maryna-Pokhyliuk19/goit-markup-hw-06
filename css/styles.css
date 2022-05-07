@@ -643,15 +643,19 @@ margin-left: 70px;
     margin-right: 10px;
 }
 
+.footer-sub-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .footer-form {
     margin-left: 93px;
     margin-right: 0;
-    height: 86px;
-    
+    height: 86px; 
 }
 
 .footer-sub-form {
-    
     display: flex;
     align-items: center;
     justify-content: center;
